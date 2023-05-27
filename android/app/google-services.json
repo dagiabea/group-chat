@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "202979775983",
+    "project_id": "flutter-chat-group",
+    "storage_bucket": "flutter-chat-group.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202979775983:android:346725b92f2a54ff59121a",
+        "android_client_info": {
+          "package_name": "dagiabea.com.groupie_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202979775983-3alt11puphj9gkhs3m1bm36b2otbnseq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dagiabea.com.groupie_firebase",
+            "certificate_hash": "f6c01acef243ac613acd89760eeb398ef34922aa"
+          }
+        },
+        {
+          "client_id": "202979775983-ssjmir63scoudcks3rrr2lfeaogqne12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9GQOcYPFp-QYLuBALvTMovrgk8iEyDOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202979775983-ssjmir63scoudcks3rrr2lfeaogqne12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
